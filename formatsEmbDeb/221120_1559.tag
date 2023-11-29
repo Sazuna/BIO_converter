@@ -1,0 +1,1 @@
+<autre>VIDÉO</autre>. <course>Route du Rhum</course>. Ému, <personne>Armel Le Cléac’h</personne>, <rang>7e</rang>, raconte sa course : « J’ai fait différemment » @<course>RouteDuRhum</course> @<equipage>VoileBanquePop</equipage>

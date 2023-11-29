@@ -1,0 +1,1 @@
+<course>Route du Rhum</course>. <personne>Erwan Le Roux</personne> <rang>vainqueur</rang> en <voilier>Ocean Fifty</voilier> juste devant <personne>Quentin Vlamynck</personne> @<voilier>oceanfifty</voilier>
